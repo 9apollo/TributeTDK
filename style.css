@@ -1,0 +1,21 @@
+body {
+	background-color:gray;
+	margin:0;
+}
+
+.intro {
+	background-color:black;
+	color:white;
+	font-size:280%;
+
+}
+
+.pic {
+	width:300px;
+	display:flex;
+	align-items:center;
+}
+
+.pic img {
+	margin-right:20px;
+}
